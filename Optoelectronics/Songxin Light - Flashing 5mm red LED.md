@@ -1,7 +1,7 @@
 Songxin Light - Flashing 5mm red LED
 ====================================
 
-Product page: https://www.aliexpress.com/item/32836568949.html
+Product page: <https://www.aliexpress.com/item/32836568949.html>
 
 |               |                      |                                                              |
 | ------------- | -------------------- | ------------------------------------------------------------ |

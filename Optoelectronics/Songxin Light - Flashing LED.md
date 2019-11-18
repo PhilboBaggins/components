@@ -1,7 +1,7 @@
 Songxin Light - Flashing LED
 ============================
 
-Product page: https://www.aliexpress.com/item/32770689150.html
+Product page: <https://www.aliexpress.com/item/32770689150.html>
 
 Comes in "Fast Flash" and "Slow Flash" models.
 

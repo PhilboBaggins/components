@@ -1,7 +1,7 @@
 5mm candle flash yellow LED
 ===========================
 
-Product page: https://www.aliexpress.com/item/32948995682.html
+Product page: <https://www.aliexpress.com/item/32948995682.html>
 
 <img width="50%" src="5mm candle flash yellow LED.jpg"/><img width="50%" src="5mm candle flash yellow LED - mechanical.jpg"/>
 
