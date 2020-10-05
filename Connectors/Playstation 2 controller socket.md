@@ -31,3 +31,4 @@ Related pages
 * https://pinoutguide.com/Game/playstation2_controller_pinout.shtml
 * http://www.billporter.info/2011/03/27/arduino-playstation-2-controller-library-troubleshooting-guide/
 * http://www.billporter.info/2010/06/05/playstation-2-controller-arduino-library-v1-0/
+* https://github.com/madsci1016/Arduino-PS2X
