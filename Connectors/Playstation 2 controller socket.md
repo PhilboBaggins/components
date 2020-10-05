@@ -8,7 +8,7 @@ Product page: https://www.aliexpress.com/item/32769355434.html
 ECAD parts
 ----------
 
-* [Upverter part](?????)
+* [Upverter part](https://upverter.com/part/id/7ce24782006f10b4/)
 
 Pinout
 ------
