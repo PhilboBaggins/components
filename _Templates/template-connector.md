@@ -36,8 +36,8 @@ Parts searches
 
 Looking for compatible parts? Here are some good places to start:
 
-* [DigiKey]()
-* [LCSC]()
+* [DigiKey](?????)
+* [LCSC](?????)
 
 Approved parts
 --------------
